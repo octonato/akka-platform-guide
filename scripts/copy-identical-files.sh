@@ -307,7 +307,7 @@ cp ${SRC} ${tutorial_root}/05-shopping-cart-service-java/src/test/resources/
 cp ${SRC} ${tutorial_root}/shopping-cart-service-java/src/test/resources/
 cp ${SRC} ${tutorial_root}/shopping-analytics-service-java/src/test/resources/
 cp ${SRC} ${tutorial_root}/shopping-analytics-service-java/src/test/resources/
-cp ${SRC} ${tutorial_root}/00shopping-order-service-java/src/test/resources/
+cp ${SRC} ${tutorial_root}/00-shopping-order-service-java/src/test/resources/
 cp ${SRC} ${tutorial_root}/shopping-order-service-java/src/test/resources/
 
 
