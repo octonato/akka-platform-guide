@@ -112,6 +112,8 @@ zipAndAttach 6-shopping-cart-complete-scala.zip
 ## empty seed template
 prepareTemporalFolder
 fetchProject 00-shopping-cart-service-java shopping-cart-service
+fetchProject 00-shopping-analytics-service-java shopping-analytics-service
+fetchProject 00-shopping-order-service-java shopping-order-service
 zipAndAttach 0-shopping-cart-start-java.zip
 
 ## gRPC service
